@@ -8,6 +8,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
   <img src="https://skillicons.dev/icons?i=react,vuejs,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,git" />
 </div>
 
